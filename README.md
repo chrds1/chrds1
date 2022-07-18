@@ -18,5 +18,5 @@ Here are some ideas to get you started:
 <div>
   <a href="https://github.com/chrds1">
   <img height="200px" src="https://github-readme-stats.vercel.app/api?username=chrds1&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chrds1&langs_count=3&layout=compact&theme=radical"/>
+  </a>
 </div>
